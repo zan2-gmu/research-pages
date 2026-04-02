@@ -1,0 +1,12 @@
+# OS / editor
+Thumbs.db
+.DS_Store
+
+# Optional local preview tooling
+node_modules/
+dist/
+.cache/
+
+# Temporary working files
+*.tmp
+*.bak
