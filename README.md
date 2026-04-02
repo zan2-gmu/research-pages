@@ -61,6 +61,28 @@ pages/experiments/tokenization-visualizer.html
 3. Use `drafts/` for unfinished pages.
 4. Use `pages/shared/` for CSS, JS, or images reused by multiple pages.
 
+## Citation
+
+If you use content from this repository, cite the specific page you used.
+
+Recommended citation format:
+
+```text
+Author Name. "Page Title." Research Pages repository.
+Direct link: https://...
+Accessed: YYYY-MM-DD.
+```
+
+At minimum, include:
+
+- author
+- page title
+- repository name
+- direct link to the page
+- access date
+
+If the page shows a created date or updated date, include that when useful.
+
 ## Why This Structure
 
 This is meant to stay easy:
